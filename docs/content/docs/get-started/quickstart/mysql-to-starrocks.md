@@ -178,7 +178,7 @@ This command automatically starts all the containers defined in the Docker Compo
      type: starrocks
      name: StarRocks Sink
      jdbc-url: jdbc:mysql://127.0.0.1:9030
-     load-url: 127.0.0.1:8080
+     load-url: 127.0.0.1:8030
      username: root
      password: ""
      table.create.properties.replication_num: 1
